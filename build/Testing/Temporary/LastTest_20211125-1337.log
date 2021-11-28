@@ -1,0 +1,21 @@
+Start testing: Nov 25 15:32 Rom, normaltid
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "C:/Users/markr/OneDrive/Skrivebord/Uni 1. Semester/Programering 10 ECTS/uge 12/assignment-12-MarkRaabjerg/build/tests/tests.exe"
+Directory: C:/Users/markr/OneDrive/Skrivebord/Uni 1. Semester/Programering 10 ECTS/uge 12/assignment-12-MarkRaabjerg/build/tests
+"usage_test" start time: Nov 25 15:32 Rom, normaltid
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (10 assertions in 3 test cases)
+
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Nov 25 15:32 Rom, normaltid
+"usage_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 25 15:32 Rom, normaltid
